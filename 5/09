@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int min,max;
+scanf("%d%d,&min);
+while(min <= max)
+{
+printf("%d ", min);
+min++;
+}
+return 0;
+}
