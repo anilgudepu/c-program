@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+int n;
+printf("enter n no of elents");
+scanf("%d",&n);
+if(n=5)
+printf("1 2 3 4 5");
+}
